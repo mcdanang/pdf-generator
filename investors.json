@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1,
+		"name": "Muhamad Danar Pradono",
+		"nik": "3276052308970002",
+		"address": "Jl. Cemara Raya No. 8 Blok 29, RT 09/RW 13, Baktijaya, Sukmajaya, Kota Depok",
+		"amount": "Rp. 10.000.000",
+		"adminFee": "10%"
+	},
+	{
+		"id": 2,
+		"name": "Izmi Nur Istiqomah",
+		"nik": "3276026412950007",
+		"address": "Perum. Pondok Cibubur blok H4 no 11, Kel. Cisalak Pasar, Kec. Cimanggis, Kota Depok, Jawa Barat 16452",
+		"amount": "Rp. 16.000.000",
+		"adminFee": "10%"
+	},
+	{
+		"id": 3,
+		"name": "Rifqi",
+		"nik": "3276012203960008",
+		"address": "Komplek BDN, Jl. Kliring blok A7 no. 6 RT 01/RW 07, kel. Rangkapan Jaya Baru, Kec. Pancoran Mas, Kota Depok",
+		"amount": "Rp. 15.000.000",
+		"adminFee": "10%"
+	},
+	{
+		"id": 4,
+		"name": "Madina Rizqia",
+		"nik": "3275016712960012",
+		"address": "Perumahan Duren Jaya Blok C RT.004/RW.010 Jalan Akasia II no.147, Bekasi Timur",
+		"amount": "Rp. 50.000.000",
+		"adminFee": "8%"
+	},
+	{
+		"id": 5,
+		"name": "Salsabila Nadhifah",
+		"nik": "3276056711960006",
+		"address": "Pondok Sukmajaya Permai, B1 no. 16, Kec. Sukmajaya, Kota Depok, 16412",
+		"amount": "Rp. 75.000.000",
+		"adminFee": "7%"
+	},
+	{
+		"id": 6,
+		"name": "Putut Dewantoro",
+		"nik": "3276050212960009",
+		"address": "Jalan Turi 3 No 11 RT 01 RT 013 Kel. Baktijaya, Kec Sukmajaya, Depok 16418",
+		"amount": "Rp. 25.000.000",
+		"adminFee": "9%"
+	},
+	{
+		"id": 7,
+		"name": "Ghilman Al Fatih",
+		"nik": "3276062711960004",
+		"address": "Perumahan Beji Permai, Blok I.16, Tanah Baru, Beji, Kota Depok, 16426",
+		"amount": "Rp. 25.000.000",
+		"adminFee": "9%"
+	},
+	{
+		"id": 8,
+		"name": "Khalisa Putri Aqilah",
+		"nik": "3674056606980003",
+		"address": "Jalan Harapan Permai I no. 28 (AA2/D28) Ciputat Timur, Tangerang Selatan 15412",
+		"amount": "Rp. 10.000.000",
+		"adminFee": "10%"
+	},
+	{
+		"id": 9,
+		"name": "Reynard Nathaniel",
+		"nik": "3175031311960011",
+		"address": "Jl. H. Yakub Saidi No. 8, Rawa Bunga, Jatinegara, Jakarta Timur, DKI Jakarta",
+		"amount": "Rp. 2.000.000",
+		"adminFee": "10%"
+	},
+	{
+		"id": 10,
+		"name": "Alivia Nurlita Sari",
+		"nik": "3306096505970002",
+		"address": "Gg. Candi RT.02 RW.04 Kel. Bandung, Kec. Kutoarjo, Kab. Purworejo",
+		"amount": "Rp. 5.000.000",
+		"adminFee": "10%"
+	},
+	{
+		"id": 11,
+		"name": "Khoirina Nur Fadhilah",
+		"nik": "3271064808950010",
+		"address": "Jalan Kebon Pedes 1 No.19 RT.01 RW.09 Kel. Kebon Pedes Kec. Tanah Sareal Kota Bogor 16162",
+		"amount": "Rp. 2.000.000",
+		"adminFee": "10%"
+	}
+]
